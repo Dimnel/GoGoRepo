@@ -1,0 +1,7 @@
+C:\Users\TEMP.VLO30-02\AppData\Local\Temporary Projects\RunningMouse\obj\x86\Debug\RunningMouse.Form1.resources
+C:\Users\TEMP.VLO30-02\AppData\Local\Temporary Projects\RunningMouse\obj\x86\Debug\RunningMouse.Properties.Resources.resources
+C:\Users\TEMP.VLO30-02\AppData\Local\Temporary Projects\RunningMouse\obj\x86\Debug\RunningMouse.csproj.GenerateResource.Cache
+C:\Users\TEMP.VLO30-02\AppData\Local\Temporary Projects\RunningMouse\bin\Debug\RunningMouse.exe
+C:\Users\TEMP.VLO30-02\AppData\Local\Temporary Projects\RunningMouse\bin\Debug\RunningMouse.pdb
+C:\Users\TEMP.VLO30-02\AppData\Local\Temporary Projects\RunningMouse\obj\x86\Debug\RunningMouse.exe
+C:\Users\TEMP.VLO30-02\AppData\Local\Temporary Projects\RunningMouse\obj\x86\Debug\RunningMouse.pdb
