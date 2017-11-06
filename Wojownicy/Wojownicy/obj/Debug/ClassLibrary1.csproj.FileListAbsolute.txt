@@ -1,0 +1,4 @@
+C:\Users\TEMP.VLO30-02.002\AppData\Local\Temporary Projects\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\TEMP.VLO30-02.002\AppData\Local\Temporary Projects\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\TEMP.VLO30-02.002\AppData\Local\Temporary Projects\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\TEMP.VLO30-02.002\AppData\Local\Temporary Projects\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
